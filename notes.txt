@@ -1,0 +1,11 @@
+T+C GCC talk
+
+galaxy docker flavours
+ - galaxy-rna-workbench
+ - proteomics/openms
+ - good for workshops
+ - ref genome script/test data -> shared libs
+ 
+
+dockINdocker ipython
+
